@@ -46,4 +46,3 @@ After each completed step, update progress in this format:
 - [ ] Step 3: [description] ← CURRENT
 - [ ] Step 4: [description]
 ```
-

@@ -43,4 +43,3 @@ Use this exact structure:
 - **Vertical slices, not horizontal layers.** Organize steps as end-to-end slices (type + logic + handler + test), not layer by layer (all types, then all logic, then all tests).
 - **Do NOT write code yet** — that's the next phase.
 - Wait for the user to review and approve the plan before moving on. Encourage them to challenge it: "What could go wrong with step N?" or "Is there a simpler approach?"
-
